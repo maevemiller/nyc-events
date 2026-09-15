@@ -1,0 +1,8 @@
+state/
+manual_inbox.md
+manual_inbox_archive.md
+*.log
+*.err.log
+__pycache__/
+*.pyc
+.DS_Store
